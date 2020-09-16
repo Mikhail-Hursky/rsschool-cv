@@ -1,0 +1,25 @@
+body{
+    margin: 0% 25% 0% 25%;
+}
+h1{
+    padding: 0px 0px 0.3em;
+    font-size: 2em;
+    border-bottom: 1px solid #eaecef;
+    font-family: 'Kufam', cursive;
+}
+h2{
+    font-size: 16px;
+    font-family: 'Kufam', cursive;
+}
+.bold{
+    font-family: 'Kufam', cursive;
+}
+p{
+    font-size: 20px;
+}
+li{
+    font-size: 20px;
+}
+div{
+    background-color: #F6F8FA;
+}
